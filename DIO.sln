@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO", "DIO\DIO.csproj", "{A5793DEF-05B9-4D4E-A737-FFF9E6AC258C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_DIO", "API_DIO\API_DIO.csproj", "{EBFDD887-DECD-48D0-9119-87F76C47D576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO_TEST", "DIO_TEST\DIO_TEST.csproj", "{8ADBC569-0081-41A3-AA77-9BEF351E446A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5793DEF-05B9-4D4E-A737-FFF9E6AC258C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5793DEF-05B9-4D4E-A737-FFF9E6AC258C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5793DEF-05B9-4D4E-A737-FFF9E6AC258C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5793DEF-05B9-4D4E-A737-FFF9E6AC258C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFDD887-DECD-48D0-9119-87F76C47D576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFDD887-DECD-48D0-9119-87F76C47D576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFDD887-DECD-48D0-9119-87F76C47D576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFDD887-DECD-48D0-9119-87F76C47D576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADBC569-0081-41A3-AA77-9BEF351E446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADBC569-0081-41A3-AA77-9BEF351E446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADBC569-0081-41A3-AA77-9BEF351E446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADBC569-0081-41A3-AA77-9BEF351E446A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF67182-F114-49F3-AEF8-C6772B5BE9EF}
+	EndGlobalSection
+EndGlobal
